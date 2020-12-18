@@ -48,7 +48,10 @@ public class Product {
 		this.companyName = companyName;
 	}
 
-
+	public void helloworld()
+	{
+		System.out.println("Hello World welcome to Git!");
+	}
 
 
 
