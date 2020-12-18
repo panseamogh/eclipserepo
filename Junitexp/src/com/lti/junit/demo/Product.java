@@ -51,6 +51,7 @@ public class Product {
 	public void helloworld()
 	{
 		System.out.println("Hello World welcome to Git!");
+		System.out.println("My name is Amogh P.");
 	}
 
 
